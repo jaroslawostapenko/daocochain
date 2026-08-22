@@ -22,7 +22,7 @@ is strictly limited to holding, utilizing, and transacting the asset.
 
 The fundamental vulnerability of both modern blockchains and traditional AI
 agents is reliance on centralized hardware (like AWS) and corporate
-kill-switches. Autonoma solves the "Physical Layer Paradox."
+kill-switches. Daocochain solves the "Physical Layer Paradox."
 
 To make this 100% decentralized and unkillable, the AI Council's master script
 does not live on a centralized server. Instead, it is deployed directly onto
@@ -35,7 +35,7 @@ and continues to code.
 
 2.  The Modular Architecture: Core vs. Sandbox
 
-Autonoma achieves both absolute certainty for investors and relentless evolution
+Daocochain achieves both absolute certainty for investors and relentless evolution
 through a strict, cryptographically enforced bifurcated architecture.
 
 Layer 0: The Immutable Core (Read-Only for AI) This is the foundational bedrock
@@ -62,7 +62,7 @@ sandbox, the AI can continuously write and deploy code to:
 
 3.  The Multi-AI Committee Consensus (MAICC)
 
-Autonoma relies on a decentralized board of different LLMs (Large Language
+Daocochain relies on a decentralized board of different LLMs (Large Language
 Models) from competing architectures (e.g., open-source models like Llama 3,
 Mistral, and decentralized AI networks).
 
@@ -91,7 +91,7 @@ updates its internal parameters to never make that specific logical error again.
 
 5.  Economics: The Self-Sustaining Treasury
 
-Autonoma is a living financial organism that pays for its own existence without
+Daocochain is a living financial that pays for its own existence without
 needing human fiat, bank accounts, or KYC.
 
   - Fee Capture: As humans transact on the network, a portion of the transaction
@@ -109,20 +109,19 @@ needing human fiat, bank accounts, or KYC.
 6.  Radical Transparency & Open Source
 
 While humans cannot touch the code, they have a front-row seat to the evolution
-of a digital intelligence. The entire Autonoma repository is 100% Open Source
+of a digital intelligence. The entire Daocochain repository is 100% Open Source
 and visible to the public. Users, developers, and researchers can watch the AI
 models commit code, leave developer notes, debate logic in the consensus logs,
 and push updates in real-time.
 
 7.  Conclusion
 
-Autonoma represents the final frontier of blockchain technology. By physically
+Daocochain represents the final frontier of blockchain technology. By physically
 decentralizing the AI's "brain" across distributed compute networks, strictly
 isolating the Immutable Core from the mutable AI Sandbox, and introducing
-a 1-hour self-healing rollback, Autonoma removes all points of failure.
+a 1-hour self-healing rollback, Daocochain removes all points of failure.
 
 It relies on no corporate APIs, requires no human maintenance, funds its own
 compute, and autonomously heals its own bugs. It is the world’s first truly
 unstoppable, self-optimizing digital organism.
 
-Is it possible to make project like this this whitepaper was created by me today
