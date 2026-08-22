@@ -1,5 +1,5 @@
 # daocochain
-The Unkillable, Self-Healing Digital Organism
+Self-Healing
 
 Abstract
 
