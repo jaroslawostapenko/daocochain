@@ -44,7 +44,7 @@ nor the AI possess the private keys to alter this layer. The AI can read this
 code to understand how the network works and train itself, but it cannot edit
 it. The Immutable Core hardcodes:
 
-  - Maximum Supply: Capped permanently at 21,000,000 AUTO.
+  - Maximum Supply: Capped permanently at 21,000,000 DCAI.
   - Emission Schedule: The block reward halving logic.
   - Fundamental Cryptography: The cryptographic standards (e.g., SHA-256) that
     secure human wallets and sign transactions.
