@@ -123,5 +123,5 @@ a 1-hour self-healing rollback, Daocochain removes all points of failure.
 
 It relies on no corporate APIs, requires no human maintenance, funds its own
 compute, and autonomously heals its own bugs. It is the world’s first truly
-unstoppable, self-optimizing digital organism.
+unstoppable.
 
