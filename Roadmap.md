@@ -57,10 +57,10 @@ treasury that pays for the AI’s server costs.
       - Force the node to pull the previous (stable) Wasm runtime, rewind the
         database, and restart consensus.
   - Milestone 3.2: The Self-Sustaining Treasury
-      - Code a fee-capture module in Layer 1: 10% of all AUTO network fees are
+      - Code a fee-capture module in Layer 1: 10% of all DCAI network fees are
         sent to an autonomous Treasury address controlled by the AI.
       - Integrate a cross-chain messaging protocol (like IBC or LayerZero).
-      - Write the scripts allowing the AI to bridge AUTO to a decentralized
+      - Write the scripts allowing the AI to bridge DCAI to a decentralized
         exchange (DEX), swap it for Akash (AKT) or ICP tokens, and autonomously
         deposit those tokens to top up its server leases.
 
