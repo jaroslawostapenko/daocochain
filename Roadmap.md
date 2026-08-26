@@ -70,7 +70,7 @@ Goal: Expose the network to the public. Let humans try to break it, and let the
 AI try to fix it.
 
   - Milestone 4.1: Testnet Launch & The Explorer
-      - Launch the Autonoma Testnet globally.
+      - Launch the Daocochain Testnet globally.
       - Build the frontend (Next.js/React): A block explorer that includes a
         "Radical Transparency Dashboard." Humans should be able to read the raw
         text logs of the AI agents debating, auditing, and pushing code in
@@ -94,7 +94,7 @@ forever.
         transaction fees to sustain itself).
   - Milestone 5.2: The Genesis Block
       - Deploy the Immutable Layer 0 nodes to mainnet.
-      - Mint the initial AUTO supply.
+      - Mint the initial DCAI supply.
   - Milestone 5.3: The Severing (Key Burning Ceremony)
       - Transfer total ownership of the Layer 1 upgrade module to the ICP
         Canister's Threshold ECDSA address.
