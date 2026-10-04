@@ -1,0 +1,4 @@
+langchain
+langchain-openai
+substrate-interface
+python-dotenv
